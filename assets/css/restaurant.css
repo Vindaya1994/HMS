@@ -1,0 +1,136 @@
+.section-page-content p:last-of-type {
+    margin-bottom: 0;
+	
+}
+
+/*--section 3-- */
+
+.section-restaurant-details .section-opening-hours {
+    margin-top: 40x;
+	
+}
+
+.section-restaurant-details {
+    font-size: 0;
+}
+.section-restaurant-details:not(.section-restaurant-description) .block {
+    height: 425px;
+    padding: 40px;
+}
+.section-restaurant-details .block {
+    width: 50%;
+}
+.section-restaurant-details .block {
+    -webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,0.28);
+    -moz-box-shadow: 0 0 5px 0 rgba(0,0,0,0.28);
+    box-shadow: 0 0 5px 0 rgba(0,0,0,0.28);
+    display: inline-block;
+    vertical-align: top;
+}
+/*.section-restaurant-details h2 {
+    margin-bottom: 30px;
+    font-size: 1px;
+}*/
+.section-restaurant-details h2 {
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+.section-restaurant-details ul {
+    border-top: 1px solid #e4e4e4;
+	text-align:left;
+}
+.section-restaurant-details ul li {
+    padding-top: 30px;
+	 
+}
+.section-restaurant-details ul li .label {
+    margin-bottom: 15px;
+    color: #000;
+    font-size: 18px;
+    text-transform: capitalize;
+	 padding: 0;
+	 text-align:left;
+	 font-weight:normal;
+	
+}
+.section-restaurant-details ul li span {
+    display: block;
+}
+.section-restaurant-details ul li .value {
+    color: #000;
+    font-size: 12px;
+}
+.section-restaurant-details ul li:not(:last-of-type) {
+                padding-bottom: 30px;
+                border-bottom: 1px solid #e4e4e4;
+            }
+.section-restaurant-details .image-wrapper {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*--section 4--*/
+.section-restaurant-details.section-restaurant-description .block:first-of-type {
+    background: #000;
+}
+.section-restaurant-details.section-restaurant-description .block:last-of-type {
+    background: #cd2525;
+}
+.section-restaurant-details.section-restaurant-description .block {
+    height: 160px;
+    padding: 30px 30px;
+    padding-left: 30px;
+	 padding-top: 30px;
+            padding-bottom: 30px;
+}
+.section-restaurant-details.section-restaurant-description .block h3{
+    margin-bottom: 15px;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+.section-restaurant-details.section-restaurant-description .block, .section-restaurant-details.section-restaurant-description .block h3, .section-restaurant-details .section-restaurant-description .block p {
+    color: #fff;
+}
+ .section-restaurant-details .section-restaurant-description .block p{
+                font-size: 12px;
+                line-height: 20px;
+			
+            }
+
+button, .button {
+    display: inline-block;
+    min-width: 130px;
+    padding: 12px 20px;
+    background: #af861b;
+    background: #e4b22d;
+    background: -moz-linear-gradient(top, #e4b22d 0%, #c99718 44%, #b07d03 100%);
+    background: -webkit-linear-gradient(top, #e4b22d 0%, #c99718 44%, #b07d03 100%);
+    background: linear-gradient(to bottom, #5bd02d 0%, #7b9e10 44%, #378c1b 100%);
+	border: none;
+    position: relative;
+    color: white;
+    font-size: 12px;
+    line-height: 1;
+    text-align: center;
+    text-transform: uppercase;
+    vertical-align: top;
+    cursor: pointer;
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    -o-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
+/*
+
+a {
+    color: black;
+    text-decoration: none;
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    -o-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
+
+
+*/

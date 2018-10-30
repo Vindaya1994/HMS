@@ -1,0 +1,201 @@
+
+.img1{
+    height: 15%;
+    left:20%;
+    position: absolute;
+    top: 1%;
+    width: 15%;
+
+}
+.b{
+    background-color: #fff;
+    border: 1px solid #dbdbdb;
+    border-radius: 3px;
+    margin: 60px auto 0;
+    max-width: 935px;
+    overflow: hidden;
+    width: 100%;
+}
+.b1{
+    webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    -webkit-box-pack: stretch;
+    -webkit-justify-content: stretch;
+    -ms-flex-pack: stretch;
+    justify-content: stretch;
+}
+.w{
+ 
+   border-right: 1px solid #dbdbdb;
+   -webkit-flex-basis: 236px;
+   -ms-flex-preferred-size: 236px;
+   flex-basis: 236px;
+   -webkit-box-flex: 0;
+   -webkit-flex-grow: 0;
+   -ms-flex-positive: 0;
+   flex-grow: 0;
+   -webkit-flex-shrink: 0;
+   -ms-flex-negative: 0;
+   flex-shrink: 0;
+
+}
+
+.h-aRd, .h-aRd:active, .h-aRd:hover, .h-aRd:visited {
+    color: #262626;
+}
+.-HRM- {
+    border-left-color: #262626;
+    font-weight: 600;
+}
+.h-aRd {
+    border-left: 2px solid transparent;
+    display: block;
+    font-size: 16px;
+    height: 100%;
+    line-height: 20px;
+    padding: 16px 16px 16px 30px;
+    width: calc(100% - 48px);
+}
+a, a:visited {
+    color: #003569;
+    text-decoration: none;
+}
+.PVkFi {
+    -webkit-flex: 1 1 400px;
+    -ms-flex: 1 1 400px;
+    flex: 1 1 400px;
+    min-width: 50px;
+}
+.EzUlV, .PVkFi {
+    -webkit-box-flex: 1;
+}
+.C_9MP {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    margin: 32px 0 0;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+.LqNQc {
+    height: 38px;
+    width: 38px;
+}
+.M-jxE {
+    background-color: #fafafa;
+    border-radius: 50%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.IalUJ, .M-jxE {
+    height: 100%;
+    width: 100%;
+}
+.IalUJ {
+    border: 0;
+    cursor: pointer;
+    padding: 0;
+}
+
+.IalUJ, .M-jxE {
+    height: 100%;
+    width: 100%;
+}
+._01jIc, .be6sR {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.XX1Wc {
+    -webkit-box-flex: 0;
+    /* -webkit-flex: 0 1 auto; */
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    margin-right: 20px;
+    overflow-x: hidden;
+}
+.QXEMa, .kHYQv {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38px;
+}
+.iElgJ {
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-bottom: 16px;
+    margin-top: 32px;
+}
+.eE-OA {
+    margin-bottom: 16px;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+.sxIVS {
+    margin-top: 6px;
+    -webkit-flex: 0 0 194px;
+    -ms-flex: 0 0 194px;
+    flex: 0 0 194px;
+}
+
+.sxIVS, .tiXqb {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #262626;
+    -webkit-box-flex: 0;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 18px;
+}
+.ada5V {
+    color: #262626;
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    font-size: 16px;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+}
+.j_2Hd {
+    background: 0 0;
+    border: 1px solid #efefef;
+    border-radius: 3px;
+    color: #262626;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    margin: 0;
+    overflow: visible;
+    padding: 2px 8px;
+}
